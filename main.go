@@ -67,4 +67,3 @@ func callbackHandler(w http.ResponseWriter, r *http.Request) {
 			}
 		}
 	}
-}
